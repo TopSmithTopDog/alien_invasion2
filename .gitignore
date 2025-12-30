@@ -1,0 +1,3 @@
+.venv/
+git add .
+git commit -m "Initial commit with working pygame setup"
